@@ -20,7 +20,7 @@ Este projeto é um verificador de cartões para o site Tauste.com.br. Ele automa
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/tauste-checker.git
+git clone https://github.com/Pugn0/tauste.com.br.git
 cd tauste-checker
 ```
 
